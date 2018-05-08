@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08-may-2018, 17:46:09
+    Author     : Marcos
+*/
+
+#nav-boton{
+    padding: 0;
+}
+
+#nav-boton li{
+    display: inline;
+}
+
+#nav-boton li a{
+    font-family: Ubuntu;
+    font-size: 16px;
+    text-decoration: none;
+    float: left;
+    padding: 15px;
+    background-color: #8702B9;
+    color: white;
+}
+
+#nav-boton li a:hover{
+    background-color: #5B007D;
+    margin-top: -2px;
+    padding-bottom: 12px;
+}
+
+
